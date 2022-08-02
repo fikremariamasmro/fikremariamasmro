@@ -1,6 +1,6 @@
 Hi there ✋!
 
-I'am Fikremariamasmro Skilled, motivated, focused, and quick-learner senior frontend developer with 3+ years of software development. Strong technical and excellent interpersonal skills enable me to interact with a wide range of clients. 
+I'm Fikremariamasmro Skilled, motivated, focused, and quick-learner senior frontend developer with 3+ years of software development. Strong technical and excellent interpersonal skills enable me to interact with a wide range of clients. 
 
 Expert in. Flutter, Vuejs, React, and Nodejs and  UI/UX design.
 
